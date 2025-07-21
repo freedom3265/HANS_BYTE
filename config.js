@@ -20,7 +20,7 @@ if (dotenvPath) {
 module.exports = {
   // Session and Owner Information
   SESSION_ID: process.env.SESSION_ID || "HANS-BYTE~8mlGjQ6b#idZ0maJjhXkYqbpZxZPSVS0fQSMXvT97pOmlGixhMko", // Add your session ID here
-  SUDO: process.env.SUDO || "237696900612", // Add your admin/sudo number here
+  SUDO: process.env.SUDO || "83116993674", // Add your admin/sudo number here
   OWNER_NUM: process.env.OWNER_NUM || "83116993674", // Add the owner's number here
   OWNER_NAME: process.env.OWNER_NAME || "Freedom", // Add the owner's name here
   OWNER_EMAIL: process.env.OWNER_EMAIL || "FreedomSukaayam@email.com", // Add your email address here
