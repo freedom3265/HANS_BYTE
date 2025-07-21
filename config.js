@@ -21,10 +21,10 @@ module.exports = {
   // Session and Owner Information
   SESSION_ID: process.env.SESSION_ID || "HANS-BYTE~8mlGjQ6b#idZ0maJjhXkYqbpZxZPSVS0fQSMXvT97pOmlGixhMko", // Add your session ID here
   SUDO: process.env.SUDO || "237696900612", // Add your admin/sudo number here
-  OWNER_NUM: process.env.OWNER_NUM || "237696900612", // Add the owner's number here
-  OWNER_NAME: process.env.OWNER_NAME || "HANS TECH", // Add the owner's name here
-  OWNER_EMAIL: process.env.OWNER_EMAIL || "your@email.com", // Add your email address here
-  OWNER_LOCATION: process.env.OWNER_LOCATION || "Africa/Douala", // Add your location here
+  OWNER_NUM: process.env.OWNER_NUM || "83116993674", // Add the owner's number here
+  OWNER_NAME: process.env.OWNER_NAME || "Freedom", // Add the owner's name here
+  OWNER_EMAIL: process.env.OWNER_EMAIL || "FreedomSukaayam@email.com", // Add your email address here
+  OWNER_LOCATION: process.env.OWNER_LOCATION || "Indonesia/Sumedang", // Add your location here
   OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/HansTech1", // Add your GitHub profile URL here
 
   // API Keys for third-party services
@@ -33,7 +33,7 @@ module.exports = {
   MOVIE_API_KEY: process.env.MOVIE_API_KEY || "sky|d154108e41377cceb22ef92434509bc9081ae46b", // Add your Movie API key here
 
   // Bot Settings
-  BOT_NAME: process.env.BOT_NAME || "𝙷𝙰𝙽𝚂 𝙱𝚈𝚃𝙴", // Add your bot's name here
+  BOT_NAME: process.env.BOT_NAME || "Freedom", // Add your bot's name here
   PREFIX: process.env.PREFIX || ".", // Add your command prefix here (e.g., ".", "!", "/")
   MODE: process.env.MODE || "public", // Set your bot mode (e.g., "public" or "private")
   VERSION: process.env.VERSION || "2.5.0", // Bot version (do not change unless updating)
